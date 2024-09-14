@@ -1,4 +1,4 @@
-# New-Website
+# News-Website
 
 # Technologies used -
   1. HTML
